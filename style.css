@@ -16,4 +16,44 @@ html { box-sizing: border-box; }
 
 body {
 	background-color: #bdc3c7;
+	color: white;
+}
+
+.foto {
+	width: 300px;
+}
+
+.hlavicka {
+	width: 300px;
+	position: relative;
+}
+
+.logo {
+	position: absolute;
+	left: 230px;
+	top: 175px;
+	background-color: #b92e81;
+	border-radius: 50%;
+}
+
+.obsah {
+	width: 300px;
+	padding: 20px;
+}
+
+.profil {
+	width: 300px;
+	background-color: #31363b;
+}
+
+.portfolio {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+
+.facebook {
+	display: inline-block;
+	width: 50%;
+	text-align: center;
 }
